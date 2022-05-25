@@ -3,7 +3,7 @@
  * Copyright (c) 2018 - Stewart Gebbie. Licensed under the MIT licence.
  * vim: set ts=2 sw=0:
  */
-use "ponytest"
+use "pony_test"
 use "itertools"
 
 actor Main is TestList
